@@ -25,6 +25,22 @@ call :create_link uTools %APPDATA%
 call :create_link .logseq %USERPROFILE%
 call :create_link UnrealEngine %LOCALAPPDATA%
 call :create_link .ollama %USERPROFILE%
+call :create_link .bun %USERPROFILE%
+call :create_link .claude %USERPROFILE%
+call :create_link .codex %USERPROFILE%
+call :create_link .gradle %USERPROFILE%
+call :create_link .copilot %USERPROFILE%
+call :create_link .cursor %USERPROFILE%
+call :create_link .docker %USERPROFILE%
+call :create_link .gemini %USERPROFILE%
+call :create_link .hermes %USERPROFILE%
+call :create_link .insightface %USERPROFILE%
+call :create_link .mem0 %USERPROFILE%
+call :create_link .vibe-kanban %USERPROFILE%
+call :create_link go %USERPROFILE%
+call :create_link pipx %USERPROFILE%
+call :create_link .cargo %USERPROFILE%
+call :create_link .cc-switch %USERPROFILE%
 
 pause
 
